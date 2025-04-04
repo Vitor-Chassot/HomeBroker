@@ -1,2 +1,2 @@
-#Diagrama do Banco de Dados:
+## Diagrama do Banco de Dados:
 ![DiagramaDB](imagens/DiagramaDB.png)
